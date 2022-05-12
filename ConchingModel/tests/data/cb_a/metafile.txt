@@ -1,0 +1,2 @@
+mass,fat,loc_fat,solids_cp,loc_cp,solids_sp,loc_sp,loc_pp,temp
+500,100,,0,,0,,,60

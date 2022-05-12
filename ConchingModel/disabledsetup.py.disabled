@@ -1,0 +1,12 @@
+import setuptools
+
+setuptools.setup(
+    name="ConchingModel",
+    version="0.9",
+    author="Philip Schmid",
+    author_email="philip.schmid@tum.de",
+    description="A package to conduct planning and processing of conching experiments",
+    packages=['ConchingModel', ],
+    python_requires='>=3.7',
+    site.ENABLE_USER_SITE=True
+)
